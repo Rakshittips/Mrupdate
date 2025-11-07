@@ -1,3 +1,3 @@
-versionName=9.0
-webpageUrl=https://t.me/Mr_Rakshit_2_0
-dialogTitle=MRGram v9.0
+versionName=8.0
+webpageUrl=https://t.me/RC1Gram/42
+dialogTitle=RCGram v8.0
